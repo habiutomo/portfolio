@@ -63,10 +63,6 @@ npm run dev
 └── public/                # Static assets
 ```
 
-## Deployment
-
-The project is configured for deployment on Replit. The production build can be created using:
-
 ```bash
 npm run build
 ```
